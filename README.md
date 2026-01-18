@@ -32,9 +32,12 @@ Docker  •  Docker Compose  •  Git  •  GitHub Actions
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viniciustbs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Viniciustbs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="languages" />
+<div align="left">
+  <table>
+    <tr>
+      <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true&username=Viniciustbs" height="150" alt="languages graph" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
